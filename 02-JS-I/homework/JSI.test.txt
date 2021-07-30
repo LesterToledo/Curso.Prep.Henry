@@ -1,0 +1,31 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+
+    Respuesta
+
+    Variables: Son Espacios en memoria donde se almacenan distintos tipos de datos,
+    o como cajitas donde puedes almacenar distintos tipos de juguetes.
+
+    Strings: Son todos los elementos encerrados entre comillas ya sean simples o dobles, 
+    donde pueden haber uno o varios de estos elementos, si uno de tus juguetes o muchos de tus
+    juguetes se encuentra entre estas 4 bolitas con su palito hacia abajo, los llamaremos Strings
+
+    Funciones: Ordenes que damos bien agrupadas para no tener que volver a escribir las ordenes,
+    si necesitaramos volver a dar dichas ordenes las llamamos nuevamente y las utilizamos
+
+        Argumento: Orientacion de las Ordenes   Return: nos devuelve la solucion a lo que ordenamos
+
+    Declaracion if: Es una condicion, cuya respuesta es verdadera o falsa, es decir, si haces la 
+    tarea si vas a jugar con tus amigos, sino la haces, te quedas en casa.
+
+    Valores Booleanos: Estos pueden tener solo dos valores, true o false, ejemplo si haces 
+    la tarea el valor es true y juegas con tus amigos, sino haces la tarea, el valor es false
+    y no juegas con tus amigos.
+
+Nota: jejeje, crie dos hijos, y al menos los valores booleanos se los explicaba asi.
